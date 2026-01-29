@@ -1,0 +1,13 @@
+# Virtual environments
+env/
+venv/
+.venv/
+
+# Python junk
+__pycache__/
+*.pyc
+*.pyo
+
+# Django
+db.sqlite3
+.env
